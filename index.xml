@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>Tow TRUCK</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+</head>
+<body>
+  <!-- ======= Top Bar ======= -->
+  <section id="topbar" class="d-flex align-items-center">
+    <div class="container d-flex justify-content-center justify-content-md-between">
+      <div class="contact-info d-flex align-items-center">
+        <i class="bi bi-phone-fill phone-icon" ><a href=" TEL: 0502166398">0502166398</a></i>
+        <i class="bi bi-phone-fill phone-icon" ><a href=" TEL: 0536326336">0536326336</a></i>
+      </div>
+      <div class="social-links d-none d-md-block">
+        <a href="https://www.tiktok.com/@towtruck233?_t=8rGrRnetEWq&_r=1" class="tiktok"><i class="bi bi-tiktok"></i></a>
+        <a href="https://x.com/towtruckksa?t=HUaLyo8Pty0JtiBHBlkzTw&s=09" class="twitter"><i class="bi bi-twitter"></i></a>
+        <a href="https://www.facebook.com/profile.php?id=61568253412553" class="facebook"><i class="bi bi-facebook"></i></a>
+        <a href="https://www.instagram.com/towt_ruck1?igsh=MXQ5YWNhY2hkMm5nMw==" class="instagram"><i class="bi bi-instagram"></i></a>
+        <a href="https://www.snapchat.com/add/towtruck1645?share_id=jif2NXJZS18&locale=ar-EG" class="snapchat"><i class="bi bi-snapchat"></i></i></a>
+      </div>
+    </div>
+  </section>
+  <!-- ======= Header ======= -->
+  <header id="header" class="d-flex align-items-center">
+    <div class="container d-flex align-items-center">
+      <h1 class="logo me-auto"><a href="index.html"> سطحه هيدروليك</a></h1>
+      <nav id="navbar" class="navbar">
+        <ul> <h2>   </h2>
+          <li><a class="nav-link scrollto" href="#contact">   <h4> تواصل معنا </h4>  </a></li>
+          <li><a class="nav-link scrollto" href="#services" >    <h4> خدماتنا</h4>    </a></li>
+          <ul>
+          <li><a class="nav-link scrollto" href="#about">   <h4>  من نحن </h4>    </a></li>
+          <li><a class="nav-link scrollto active" href="#hero">     <h4>  الصفحة الرئيسئة </h4>        </a></li>
+        </ul>
+      </nav><!-- .navbar -->
+    </div>
+  </header>
+  <!-- End Header -->
+
+
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero">
+    <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
+        <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg)">
+          <div class="carousel-container">
+            <div class="container">
+              <h2 class="animate__animated animate__fadeInDown"><span>سطحه هيدروليك</span></h2>
+              <h3>  <p class="animate__animated animate__fadeInUp">سطحه هيدروليك لنقل السيارات والدبابات الى جميع مناطق المملكة</h3></p>
+              <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">المزيد </a>
+            </div>
+          </div>
+        </div> </div>
+  </section><!-- End Hero -->
+   <main id="main">
+    <!-- ======= About Us Section ======= -->
+    <section id="about" class="about">
+      <div class="container">
+        <div class="section-title">
+        <h2>من نحن</h2>
+          <h4>
+            تعتبر شركتنا واحدة من أبرز الشركات في مجال خدمات نقل السيارات وسحب السيارات المعطلة في المنطقة الشرقية نعمل على تقديم خدمات مميزة وفعالة لعملائها من خلال توفير أحدث التقنيات في مجال نقل السيارات والتزامها بمعايير الجودة والأمان.
+            تقدم الشركة خدمات متنوعة تشمل سحب السيارات المعطلة في أي مكان ، وكذلك نقل السيارات من وإلى أي مكان داخل المملكة العربية السعودية. كما توفر الشركة خدمات الإنقاذ على الطرقات 
+            يتميز فريق عمل الشركة بالمهنية والخبرة في مجال نقل السيارات، حيث يتم اختيار الموظفين بعناية بحيث يكونوا قادرين على التعامل مع مختلف أنواع المركبات بمهارة وكفاءة. كما تهتم الشركة بتدريب موظفيها على أحدث التقنيات والمعدات في مجال نقل السيارات لضمان تقديم خدمات عالية الجودة للعملاء
+          </h4>
+          </div>
+      </div>
+    </section><!-- End About Us Section -->
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container">
+        <div class="section-title">
+          <h2>خدماتنا</h2>
+          <p></p>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box iconbox-blue">
+              <img width="50 px" src="assets/img/team/team-1.png"  alt="">
+              <h4><a href="" >خدمة الاشتراك  البطارية</a></h4>
+              <p> استمتع بوقتك في اي مكان ولا تدع مشكلات البطارية السيارة تقلقك </p>
+            </div>
+           </div>
+           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box iconbox-blue">
+              <img width="100 px" src="assets/img/team/team-2.png"  alt="">
+              <h4><a href="" >خدمة سحب  السيارة</a></h4>
+              <p> نقوم بنقل السياره من والى اي مكان تريد داخل اللملكة  العربية السعودية</p>
+            </div>
+           </div>
+           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box iconbox-blue">
+              <img width="50 px" src="assets/img/team/team-3.png"  alt="">
+              <h4><a href="" >خدمة الكفرات  الاضافية</a></h4>
+              <p> اذا الايطار لا يتحرك بعد حادث او لا تستطيع فتح المركبة يمكن عمل كفرات اضافية من اجل سلامة المركبة</p>
+            </div>
+           </div>
+           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box iconbox-blue">
+              <img width="50 px" src="assets/img/team/team-4.png"  alt="">
+              <h4><a href="" >خدمة    الفحص الدوري </a></h4>
+              <p> استمتع بوقتك في اي مكان ولا تدع  فحص المركبة  يقلقك  يمكنك تسليمها لنا من اجل الفحص الدوري ثم ارجاعها</p>
+            </div>
+           </div>
+           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box iconbox-blue">
+              <img width="50 px" src="assets/img/team/team-5.png"  alt="">
+              <h4><a href="" >خدمة تقدير  الحوادث</a></h4>
+              <p> اذا كنت تعاني من الارهاق بعد عمل حادث يمكن ان ترتاح في منزلك وتسليم السييارة لنا من اجل   اخذ المركبة الى التقدير ثم اعاددتها</p>
+            </div>
+           </div>
+        </div>
+      </div>
+    </section><!-- End Services Section -->
+
+
+
+
+
+
+
+
+
+
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>اتصل بنا</h2>
+          <p>يمكن التواصل معنا والاستفسار اذا كنت بحاجه الى مساعدة</p>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-5 d-flex align-items-stretch">
+            <div class="info">
+       
+
+       
+
+              <div class="phone">
+                <i class="bi bi-phone"></i>
+                <h3>الدمام</h3>
+                <p><a href=" tel : 0536326336">0536326336</a></p>
+              </div>
+              <div class="phone">
+                <i class="bi bi-phone"></i>
+                <h3>الاحساء</h3>
+                <p><a href=" tel : 0502166398">0502166398</a></p>
+              </div>
+              
+         
+
+              <iframe 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3732996.8405025066!2d53.36659774215147!3d23.977947705138497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e4019b3e33d8685%3A0x6db173e402bb58a6!2z2KfZhNmF2YbYt9mC2Kkg2KfZhNi02LHZgtmK2Kk!5e0!3m2!1sar!2ssa!4v1731339492404!5m2!1sar!2ssa"
+               frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
+            </div>
+
+          </div>
+
+          <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
+            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+              <div class="row">
+                <div class="form-group col-md-6">
+                  <label for="name">الاسم</label>
+                  <input type="text" name="name" class="form-control" id="name" required>
+                </div>
+                <div class="form-group col-md-6 mt-3 mt-md-0">
+                  <label for="name">الايميل</label>
+                  <input type="email" class="form-control" name="email" id="email" required>
+                </div>
+              </div>
+              <div class="form-group mt-3">
+                <label for="name">العنوان</label>
+                <input type="text" class="form-control" name="subject" id="subject" required>
+              </div>
+              <div class="form-group mt-3">
+                <label for="name">الموضوع</label>
+                <textarea class="form-control" name="message" rows="10" required></textarea>
+              </div>
+              <div class="my-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+              </div>
+              <div class="text-center"   ><button type="submit"><a href="#" color="black" style="color:black;"> send message</a></button></div>
+            </form>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container">
+    
+      <p>المملكة العربيةالسعودية</p>
+      <div class="social-links">
+        <a href="https://x.com/towtruckksa?t=HUaLyo8Pty0JtiBHBlkzTw&s=09" class="twitter"><i class="bx bxl-twitter"></i></a>
+        <a href="https://www.facebook.com/profile.php?id=61568253412553" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="https://www.instagram.com/towt_ruck1?igsh=MXQ5YWNhY2hkMm5nMw==" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="https://www.snapchat.com/add/towtruck1645?share_id=jif2NXJZS18&locale=ar-EG" class="snapchat"><i class="bx bxl-snapchat"></i></a>
+        <a href="https://www.tiktok.com/@towtruck233?_t=8rGrRnetEWq&_r=1" class="tiktok"><i class="bx bxl-tiktok"></i></a>
+        <a href="tel : 0502166387" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
+      </div>
+     
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/green-free-one-page-bootstrap-template/ -->
+        Designed by <a href="">Mohammed saleem 0534650622</a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+
+
+
+
+
+
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
